@@ -5,6 +5,7 @@ Requires:
 * pip install --user Flask-WTF
 * pip install --user Flask-SQLAlchemy
 * pip install --user migrate
+* pip install --user sqlalchemy-migrate
 
 
 
