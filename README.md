@@ -4,6 +4,9 @@ Try logins on a Flask app, similar to http://blog.miguelgrinberg.com/post/the-fl
 Requires: 
 * pip install --user Flask-WTF
 * pip install --user Flask-SQLAlchemy
+* pip install --user migrate
+
+
 
 * Add config.py to your .gitignore
 * Copy config.py.EXAMPLE to config.py
