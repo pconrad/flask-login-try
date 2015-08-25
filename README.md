@@ -1,7 +1,9 @@
 # flask-login-try
 Try logins on a Flask app, similar to http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iii-web-forms
 
-Requires: pip install --user Flask-WTF
+Requires: 
+* pip install --user Flask-WTF
+* pip install --user Flask-SQLAlchemy
 
 * Add config.py to your .gitignore
 * Copy config.py.EXAMPLE to config.py
